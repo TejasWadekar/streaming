@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-4e5e=kdu9hoz1d8c97cx5f@7+ldbqmnd(c5@mfb1k!%at1hk8m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['streaming-lac-tau.vercel.app']
 
 
 # Application definition
